@@ -7,6 +7,6 @@ The ABI saved in file called the same name
 The contract has one function, which recieve data in bytes32. It helps to spend less by using hashed values
 send_data(value: bytes32)
 
-The fee is about 0.00002 and 0.00003 per transactions. So devices can store data in safety and pay cheap cryptocurrency per tramsaction
+The fee is about 0.00002 and 0.00003 (ETC) per transactions. So devices can store data in safety and pay cheap cryptocurrency per tramsaction
 
 This project has a python client. It can get data from blockchain and show up it to observer
